@@ -1,0 +1,18 @@
+.header-spacer {
+  flex: 1 1 auto;
+}
+
+.content {
+  min-height: calc(100vh - 64px);
+  padding: 25px 15px;
+  box-sizing: border-box;
+}
+
+.active {
+  border: 1px solid rgb(148, 145, 145);
+}
+main{
+  background-image:url("milad-fakurian-PGdW_bHDbpI-unsplash.jpg ");
+  background-repeat: no-repeat;
+  background-size:100% auto;
+}
